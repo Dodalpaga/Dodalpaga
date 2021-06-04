@@ -4,6 +4,7 @@
 - 📫 How to reach me : dorian.voydie@gmail.com
 
 - 👔💻 Work opportunities : 
+
 "Chez entrepreneurs, industriels, recruteurs,
 Etant titulaire d'un diplôme d'ingénieur ENSMM, j'ai souhaité continuer ma formation avec le Master Spécialisé VALDOM (INSA Toulouse) : Valorisation des Données Massives.
 Je suis actuellement à la recherche d'un contrat de profesionnalisation qui me permettrait d'une part de valider ma formation, et d'autre part de travailler dans le domaine qui me pasionne auprès de professionnels.
