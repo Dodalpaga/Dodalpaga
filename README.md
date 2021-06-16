@@ -1,21 +1,37 @@
-- 👋 Hi, I’m @Dodalpaga
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Python libraries for ML
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=👋%20@Dodalpaga&fontSize=80)
+
+# Hey, it's Dorian VOYDIE !
+
+- 👀 I’m currently interested in Machine Learning and Data Science
+
+- 🌱 I’m also learning Python techniques for ML on COURSERA and UDEMY !
+
 - 📫 How to reach me : dorian.voydie@gmail.com
 
-- 👔💻 Work opportunities : 
+## 👔💻 Work opportunities : 
 
 "Chez entrepreneurs, industriels, recruteurs,
 Etant titulaire d'un diplôme d'ingénieur ENSMM, j'ai souhaité continuer ma formation avec le Master Spécialisé VALDOM (INSA Toulouse) : Valorisation des Données Massives.
 Je suis actuellement à la recherche d'un contrat de profesionnalisation qui me permettrait d'une part de valider ma formation, et d'autre part de travailler dans le domaine qui me passionne auprès de professionnels.
 N'hésitez pas à me joindre par mail ou par téléphone.
 
-Mon LinkedIN : https://www.linkedin.com/in/dorian-voydie/ LinkedIn 
-
 Merci !"
 
-Personnal Website in progress : https://dorian-voydie.tk
+## 🖥️👨‍💻 Skills
 
+<img src="https://user-images.githubusercontent.com/81590399/122301898-a24ffc80-cf01-11eb-8dba-481bb2ad82f4.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122301906-a67c1a00-cf01-11eb-8b40-a999b9e5bd2a.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122301917-a9770a80-cf01-11eb-82b0-750487a6b42c.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122301923-ac71fb00-cf01-11eb-82ed-ab76dc83599d.png" width="50" height="50">
+
+<img src="https://user-images.githubusercontent.com/81590399/122301933-b136af00-cf01-11eb-8da6-0a638decb622.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122302772-dd066480-cf02-11eb-9dd9-4c39957a4e2a.png" width="125" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122303018-31114900-cf03-11eb-949e-c1b5cc4edfc3.png" width="104" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122303148-5bfb9d00-cf03-11eb-8497-3b7a2db90716.png" width="175" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122303486-eba14b80-cf03-11eb-97e4-4793b6b5c2fe.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122303524-01167580-cf04-11eb-8a19-6fa737ddcb55.png" width="50" height="50">
+
+<img src="https://user-images.githubusercontent.com/81590399/122303378-bbf24380-cf03-11eb-9e59-a6973015c594.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122303424-d0364080-cf03-11eb-94e8-08d3a30f175b.png" width="149" height="50">
+
+## Mon LinkedIN :
+
+[![image](https://user-images.githubusercontent.com/81590399/122301148-9152bb80-cf00-11eb-91b0-bff49fc22f89.png)](https://www.linkedin.com/in/dorian-voydie/)
+
+### Personnal Website in progress : https://dorian-voydie.tk
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=footer&fontSize=80)
 <!---
 Dodalpaga/Dodalpaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
