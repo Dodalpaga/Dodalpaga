@@ -29,7 +29,7 @@ Merci !"
 ![Dodalpaga's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dodalpaga&layout=compact&theme=radical)
 
 
-## Mon LinkedIN :
+## My LinkedIN :
 
 [![image](https://user-images.githubusercontent.com/81590399/122301148-9152bb80-cf00-11eb-91b0-bff49fc22f89.png)](https://www.linkedin.com/in/dorian-voydie/)
 
