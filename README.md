@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=👋%20@Dodalpaga&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20@Dodalpaga&fontSize=80)
 
 # Hey, it's Dorian VOYDIE !
 
