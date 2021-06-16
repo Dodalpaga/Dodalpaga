@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20@Dodalpaga&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=👋%20@Dodalpaga&fontSize=80&animation=twinkling&fontColor=FFFFFF&fontAlignY=30)
+
 
 # Hey, it's Dorian VOYDIE !
 
@@ -38,7 +39,7 @@ Merci !"
 
 ### Porfolio In Progress : https://dorian-voydie.tk
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&fontSize=80)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=80)
 <!---
 Dodalpaga/Dodalpaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
