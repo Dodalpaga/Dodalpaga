@@ -28,11 +28,15 @@ Merci !"
 ![Dodalpaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dodalpaga&show_icons=true&theme=radical)
 ![Dodalpaga's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dodalpaga&layout=compact&theme=radical)
 
+
 ## Mon LinkedIN :
 
 [![image](https://user-images.githubusercontent.com/81590399/122301148-9152bb80-cf00-11eb-91b0-bff49fc22f89.png)](https://www.linkedin.com/in/dorian-voydie/)
 
-### Personnal Website in progress : https://dorian-voydie.tk
+### Latest repo : 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dodalpaga&repo=Iris-Prediction)](https://github.com/Dodalpaga/Iris-Prediction)
+
+### Porfolio In Progress : https://dorian-voydie.tk
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&fontSize=80)
 <!---
