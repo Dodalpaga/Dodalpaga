@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=👋%20@Dodalpaga&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=👋%20@Dodalpaga&fontSize=80)
 
 # Hey, it's Dorian VOYDIE !
 
@@ -25,13 +25,20 @@ Merci !"
 
 <img src="https://user-images.githubusercontent.com/81590399/122303378-bbf24380-cf03-11eb-9e59-a6973015c594.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/81590399/122303424-d0364080-cf03-11eb-94e8-08d3a30f175b.png" width="149" height="50">
 
+<a href="https://github.com/Dodalpaga">
+<img align="center" alt="Dodalpaga's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dodalpaga&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/Dodalpaga">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dodalpaga&layout=compact&theme=radical" />
+</a>
+
 ## Mon LinkedIN :
 
 [![image](https://user-images.githubusercontent.com/81590399/122301148-9152bb80-cf00-11eb-91b0-bff49fc22f89.png)](https://www.linkedin.com/in/dorian-voydie/)
 
 ### Personnal Website in progress : https://dorian-voydie.tk
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=footer&fontSize=80)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&fontSize=80)
 <!---
 Dodalpaga/Dodalpaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
