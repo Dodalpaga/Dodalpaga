@@ -10,7 +10,7 @@ Etant titulaire d'un diplôme d'ingénieur ENSMM, j'ai souhaité continuer ma fo
 Je suis actuellement à la recherche d'un contrat de profesionnalisation qui me permettrait d'une part de valider ma formation, et d'autre part de travailler dans le domaine qui me passionne auprès de professionnels.
 N'hésitez pas à me joindre par mail ou par téléphone.
 
-Mon LinkedIN : https://www.linkedin.com/in/dorian-voydie/
+Mon LinkedIN : https://www.linkedin.com/in/dorian-voydie/ LinkedIn 
 
 Merci !"
 
