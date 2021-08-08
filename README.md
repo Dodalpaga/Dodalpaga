@@ -22,9 +22,10 @@
 ![Dodalpaga's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dodalpaga&layout=compact&theme=radical)
 
 
-## My LinkedIN :
+## My Networks :
 
 [![image](https://user-images.githubusercontent.com/81590399/122301148-9152bb80-cf00-11eb-91b0-bff49fc22f89.png)](https://www.linkedin.com/in/dorian-voydie/)
+[<img src="https://user-images.githubusercontent.com/81590399/128627577-1550cab0-c721-40f2-bb8f-7300ec65c45b.png" width="28" height="28">](https://www.kaggle.com/dorianvoydie)
 
 ### Latest repo : 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dodalpaga&repo=Iris-Prediction)](https://github.com/Dodalpaga/Iris-Prediction)
