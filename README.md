@@ -7,7 +7,7 @@
 - :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-my%20LinkedIN-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-voydie/)
-[![Mail Badge](https://img.shields.io/badge/-my%20email-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![Mail Badge](https://img.shields.io/badge/-my%20email-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dorian.voydie@gmail.com?subject=Write%20a%20subject%20here)
 [![Kaggle Badge](https://img.shields.io/badge/-My%20Kaggle-35b4e1?style=for-the-badge&labelColor=35b4e1&logo=kaggle&logoColor=white)](https://www.kaggle.com/dorianvoydie)
 
 ## 🖥️👨‍💻 Skills
@@ -37,8 +37,11 @@
 ![Raspberry](https://img.shields.io/badge/-raspberrypi-4e8f52?style=for-the-badge&labelColor=black&logo=raspberrypi&logoColor=white)
 
 ## My online course certifications
-[![Coursera](https://img.shields.io/badge/-Coursera-0053cb?style=for-the-badge&labelColor=black&logo=Coursera&logoColor=white)](https://www.linkedin.com/in/dorian-voydie/) [![Udemy](https://img.shields.io/badge/-Udemy-9f33e8?style=for-the-badge&labelColor=black&logo=Udemy&logoColor=white)](dorian.voydie@gmail.com)
+[![Coursera](https://img.shields.io/badge/-Coursera%20(Intro%20to%20data%20science)-0053cb?style=for-the-badge&labelColor=black&logo=Coursera&logoColor=white)](https://coursera.org/share/95c88a49513566db697d709de0af9d8a)
+[![Coursera](https://img.shields.io/badge/-Coursera%20(machine%20learning)-0053cb?style=for-the-badge&labelColor=black&logo=Coursera&logoColor=white)](https://coursera.org/share/0aea160b3f42ec988d93a112c14ce191)
+[![Udemy](https://img.shields.io/badge/-Udemy%20(le%20deep%20learning%20de%20a%20a%20z)-9f33e8?style=for-the-badge&labelColor=black&logo=Udemy&logoColor=white)](http://ude.my/UC-b9c0f565-7a10-42b8-b4c9-8347e16f343c)
 
+## My stats
 ![Dodalpaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dodalpaga&show_icons=true&theme=radical)
 ![Dodalpaga's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dodalpaga&layout=compact&theme=radical)
 
