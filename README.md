@@ -42,11 +42,11 @@
 [![Udemy](https://img.shields.io/badge/-Udemy%20(le%20deep%20learning%20de%20a%20a%20z)-9f33e8?style=for-the-badge&labelColor=black&logo=Udemy&logoColor=white)](http://ude.my/UC-b9c0f565-7a10-42b8-b4c9-8347e16f343c)
 
 ## My stats
-![Dodalpaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dodalpaga&show_icons=true&theme=radical)
-![Dodalpaga's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dodalpaga&layout=compact&theme=radical)
+![Dodalpaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dodalpaga&show_icons=true&theme=dracula)
+![Dodalpaga's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dodalpaga&layout=compact&theme=dracula)
 
 ### Latest repo : 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dodalpaga&repo=Iris-Prediction)](https://github.com/Dodalpaga/Iris-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dodalpaga&repo=DEFI_IA)](https://github.com/Dodalpaga/DEFI_IA/tree/team_4)
 
 ### Porfolio In Progress : https://dorian-voydie.tk
 
