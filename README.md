@@ -46,7 +46,7 @@
 ![Dodalpaga's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dodalpaga&layout=compact&theme=dracula)
 
 ### Latest repo : 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dodalpaga&repo=DEFI_IA)](https://github.com/Dodalpaga/DEFI_IA/tree/team_4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dodalpaga&repo=Porfolio)](https://github.com/Dodalpaga/Porfolio)
 
 ### Porfolio In Progress : https://dorian-voydie.tk
 
